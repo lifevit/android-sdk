@@ -1,6 +1,6 @@
 # LifeVit SDK for Android
 
-LifeVit SDK is an Android (and iOS) library used to easily communicate with LifeVit's bluetooth wearables and devices.
+LifeVit SDK is an Android library used to easily communicate with LifeVit's bluetooth wearables and devices.
 
 ## Installation
 
@@ -30,7 +30,7 @@ dependencies {
 
 ## Usage
 
-You have a complete documentation in:
+You have a complete documentation of the library and all its devices in:
 
 https://developers.lifevit.es/
 
