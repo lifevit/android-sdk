@@ -22,7 +22,7 @@ Then you can add the library implementation to the gradle of any module that you
 ```
 dependencies {
     [...]
-    implementation 'es.lifevit:lifevit-sdk:2.0.0'
+    implementation 'es.lifevit:lifevit-sdk:2.1.0'
     [...]
 }
 ```
